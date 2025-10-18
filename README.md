@@ -278,7 +278,8 @@ Para replicar este ambiente:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone https://github.com/Muriloagu/trabalho_final_modulo_2
+    git clone [https://github.com/Muriloagu/trabalho_final_modulo_2](https://github.com/Muriloagu/Otimiza-o-do-Potencial-Energ-tico-Renov-vel-de-Goi-s/
+    cd https://github.com/Muriloagu/Otimiza-o-do-Potencial-Energ-tico-Renov-vel-de-Goi-s/
     cd trabalho_final_modulo_2
     ```
 2.  **Instale as Dependências:**
@@ -290,6 +291,12 @@ Para replicar este ambiente:
     cd arquivos_gerados
     Execute o arquivo _requirements para os modelos.
     pip install -r [...]_requirements.txt
+    ```
+2.1  **Rodando os Modelos:**
+    Nas pastas 6 - 7 - 8 - 9 - 10
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z9mCZ29coi9MNsCo1SrIjOWIvcGpa7oE?usp=sharing)
+    ```bash
+    Todos os arquivos no COLAB tem etapas bem definidas para guiar a execução, com explicações.
     ```
 3.  **AIRBYTE e METABASE:** Instalamos localmente utilizando o quick start do aribyte:
     ```bash
