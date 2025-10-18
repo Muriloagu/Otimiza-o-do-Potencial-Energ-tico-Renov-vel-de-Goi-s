@@ -283,9 +283,11 @@ Para replicar este ambiente:
     cd trabalho_final_modulo_2
     ```
 2.  **Instale as Dependências:**
-    Todas as dependências necessárias estão listadas no arquivo `requirements.txt`. 
+    Todas as dependências necessárias estão listadas no arquivo `[...]_requirements.txt`. 
+
     Nas pastas 6 - 7 - 8 - 9 - 10
     Instale-as usando o `pip`:
+
     ```bash
     ENTRE NA PASTA COM O MODELO
     cd arquivos_gerados
@@ -294,8 +296,13 @@ Para replicar este ambiente:
     ```
 2.1  **Rodando os Modelos:**
     Nas pastas 6 - 7 - 8 - 9 - 10
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z9mCZ29coi9MNsCo1SrIjOWIvcGpa7oE?usp=sharing)
-    
+
+    6.random_forest
+    [![Random Forest EOLICA](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z9mCZ29coi9MNsCo1SrIjOWIvcGpa7oE?usp=sharing)
+
+    [![Random Forest SOLAR](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V0XOt1MAfQTYf3B34Cjfl5VNbAKtBTrp?usp=sharing)
+
+
     ```bash
     Todos os arquivos no COLAB tem etapas bem definidas para guiar a execução, com explicações.
     ```
